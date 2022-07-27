@@ -7,7 +7,7 @@ import  random   as rd
 from    discord.ext import commands
 
 
-token = ''   # insert here your bot token.
+token  = ''   # insert here your bot token.
 prefix = '.' # replace with the prefix you want
 
 bot = commands.Bot(command_prefix=prefix)
